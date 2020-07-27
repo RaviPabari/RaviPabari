@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ravipabari@outlook.com**
 
-- ⚡ Fun fact **Electric lamp in games uses real electricity :)**
+- ⚡ Fun fact **Zero is just a portal between positive and negative numbers :)**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravipabari&show_icons=true" alt="ravipabari" /> </p>
 
