@@ -18,5 +18,4 @@
 <a href="https://linkedin.com/in/ravipabari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravipabari" height="20" width="20" /></a>
 <a href="https://instagram.com/ravipabari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravipabari" height="20" width="20" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravipabari&layout=compact&hide=html&theme=merko" alt="ravipabari" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravipabari&show_icons=true&theme=merko" alt="ravipabari" /></p>
